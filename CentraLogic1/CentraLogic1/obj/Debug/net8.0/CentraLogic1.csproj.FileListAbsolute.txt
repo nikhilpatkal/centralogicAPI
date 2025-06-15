@@ -1,0 +1,14 @@
+C:\Users\nikhi\source\repos\CentraLogic1\CentraLogic1\bin\Debug\net8.0\CentraLogic1.exe
+C:\Users\nikhi\source\repos\CentraLogic1\CentraLogic1\bin\Debug\net8.0\CentraLogic1.deps.json
+C:\Users\nikhi\source\repos\CentraLogic1\CentraLogic1\bin\Debug\net8.0\CentraLogic1.runtimeconfig.json
+C:\Users\nikhi\source\repos\CentraLogic1\CentraLogic1\bin\Debug\net8.0\CentraLogic1.dll
+C:\Users\nikhi\source\repos\CentraLogic1\CentraLogic1\bin\Debug\net8.0\CentraLogic1.pdb
+C:\Users\nikhi\source\repos\CentraLogic1\CentraLogic1\obj\Debug\net8.0\CentraLogic1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikhi\source\repos\CentraLogic1\CentraLogic1\obj\Debug\net8.0\CentraLogic1.AssemblyInfoInputs.cache
+C:\Users\nikhi\source\repos\CentraLogic1\CentraLogic1\obj\Debug\net8.0\CentraLogic1.AssemblyInfo.cs
+C:\Users\nikhi\source\repos\CentraLogic1\CentraLogic1\obj\Debug\net8.0\CentraLogic1.csproj.CoreCompileInputs.cache
+C:\Users\nikhi\source\repos\CentraLogic1\CentraLogic1\obj\Debug\net8.0\CentraLogic1.dll
+C:\Users\nikhi\source\repos\CentraLogic1\CentraLogic1\obj\Debug\net8.0\refint\CentraLogic1.dll
+C:\Users\nikhi\source\repos\CentraLogic1\CentraLogic1\obj\Debug\net8.0\CentraLogic1.pdb
+C:\Users\nikhi\source\repos\CentraLogic1\CentraLogic1\obj\Debug\net8.0\CentraLogic1.genruntimeconfig.cache
+C:\Users\nikhi\source\repos\CentraLogic1\CentraLogic1\obj\Debug\net8.0\ref\CentraLogic1.dll
