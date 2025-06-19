@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikhi\\source\\repos\\AuthenticationApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5B70EC-3953-49F8-9F8E-72D1F5077E40}|AuthenticationApp\\AuthenticationApp.csproj|c:\\users\\nikhi\\source\\repos\\authenticationapp\\authenticationapp\\authenticationapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{EB5B70EC-3953-49F8-9F8E-72D1F5077E40}|AuthenticationApp\\AuthenticationApp.csproj|solutionrelative:authenticationapp\\authenticationapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5B70EC-3953-49F8-9F8E-72D1F5077E40}|AuthenticationApp\\AuthenticationApp.csproj|c:\\users\\nikhi\\source\\repos\\authenticationapp\\authenticationapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EB5B70EC-3953-49F8-9F8E-72D1F5077E40}|AuthenticationApp\\AuthenticationApp.csproj|solutionrelative:authenticationapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5B70EC-3953-49F8-9F8E-72D1F5077E40}|AuthenticationApp\\AuthenticationApp.csproj|c:\\users\\nikhi\\source\\repos\\authenticationapp\\authenticationapp\\authenticationapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EB5B70EC-3953-49F8-9F8E-72D1F5077E40}|AuthenticationApp\\AuthenticationApp.csproj|solutionrelative:authenticationapp\\authenticationapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5B70EC-3953-49F8-9F8E-72D1F5077E40}|AuthenticationApp\\AuthenticationApp.csproj|c:\\users\\nikhi\\source\\repos\\authenticationapp\\authenticationapp\\databasehelper\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5B70EC-3953-49F8-9F8E-72D1F5077E40}|AuthenticationApp\\AuthenticationApp.csproj|solutionrelative:authenticationapp\\databasehelper\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5B70EC-3953-49F8-9F8E-72D1F5077E40}|AuthenticationApp\\AuthenticationApp.csproj|c:\\users\\nikhi\\source\\repos\\authenticationapp\\authenticationapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5B70EC-3953-49F8-9F8E-72D1F5077E40}|AuthenticationApp\\AuthenticationApp.csproj|solutionrelative:authenticationapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5B70EC-3953-49F8-9F8E-72D1F5077E40}|AuthenticationApp\\AuthenticationApp.csproj|c:\\users\\nikhi\\source\\repos\\authenticationapp\\authenticationapp\\business\\user\\userbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5B70EC-3953-49F8-9F8E-72D1F5077E40}|AuthenticationApp\\AuthenticationApp.csproj|solutionrelative:authenticationapp\\business\\user\\userbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5B70EC-3953-49F8-9F8E-72D1F5077E40}|AuthenticationApp\\AuthenticationApp.csproj|c:\\users\\nikhi\\source\\repos\\authenticationapp\\authenticationapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EB5B70EC-3953-49F8-9F8E-72D1F5077E40}|AuthenticationApp\\AuthenticationApp.csproj|solutionrelative:authenticationapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5B70EC-3953-49F8-9F8E-72D1F5077E40}|AuthenticationApp\\AuthenticationApp.csproj|c:\\users\\nikhi\\source\\repos\\authenticationapp\\authenticationapp\\controllers\\user\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5B70EC-3953-49F8-9F8E-72D1F5077E40}|AuthenticationApp\\AuthenticationApp.csproj|solutionrelative:authenticationapp\\controllers\\user\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5B70EC-3953-49F8-9F8E-72D1F5077E40}|AuthenticationApp\\AuthenticationApp.csproj|c:\\users\\nikhi\\source\\repos\\authenticationapp\\authenticationapp\\models\\usermodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5B70EC-3953-49F8-9F8E-72D1F5077E40}|AuthenticationApp\\AuthenticationApp.csproj|solutionrelative:authenticationapp\\models\\usermodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5B70EC-3953-49F8-9F8E-72D1F5077E40}|AuthenticationApp\\AuthenticationApp.csproj|c:\\users\\nikhi\\source\\repos\\authenticationapp\\authenticationapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5B70EC-3953-49F8-9F8E-72D1F5077E40}|AuthenticationApp\\AuthenticationApp.csproj|solutionrelative:authenticationapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5B70EC-3953-49F8-9F8E-72D1F5077E40}|AuthenticationApp\\AuthenticationApp.csproj|c:\\users\\nikhi\\source\\repos\\authenticationapp\\authenticationapp\\business\\user\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5B70EC-3953-49F8-9F8E-72D1F5077E40}|AuthenticationApp\\AuthenticationApp.csproj|solutionrelative:authenticationapp\\business\\user\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5B70EC-3953-49F8-9F8E-72D1F5077E40}|AuthenticationApp\\AuthenticationApp.csproj|c:\\users\\nikhi\\source\\repos\\authenticationapp\\authenticationapp\\dependencyingectioncontainer\\dependencyingectioncontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5B70EC-3953-49F8-9F8E-72D1F5077E40}|AuthenticationApp\\AuthenticationApp.csproj|solutionrelative:authenticationapp\\dependencyingectioncontainer\\dependencyingectioncontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\nikhi\\source\\repos\\AuthenticationApp\\AuthenticationApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AuthenticationApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\nikhi\\source\\repos\\AuthenticationApp\\AuthenticationApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AuthenticationApp\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-16T06:48:52.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthenticationApp",
+              "DocumentMoniker": "C:\\Users\\nikhi\\source\\repos\\AuthenticationApp\\AuthenticationApp\\AuthenticationApp.csproj",
+              "RelativeDocumentMoniker": "AuthenticationApp\\AuthenticationApp.csproj",
+              "ToolTip": "C:\\Users\\nikhi\\source\\repos\\AuthenticationApp\\AuthenticationApp\\AuthenticationApp.csproj",
+              "RelativeToolTip": "AuthenticationApp\\AuthenticationApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-16T06:48:28.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataBaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\nikhi\\source\\repos\\AuthenticationApp\\AuthenticationApp\\DataBaseHelper\\DataBaseHelper.cs",
+              "RelativeDocumentMoniker": "AuthenticationApp\\DataBaseHelper\\DataBaseHelper.cs",
+              "ToolTip": "C:\\Users\\nikhi\\source\\repos\\AuthenticationApp\\AuthenticationApp\\DataBaseHelper\\DataBaseHelper.cs",
+              "RelativeToolTip": "AuthenticationApp\\DataBaseHelper\\DataBaseHelper.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAYwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T18:11:28.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthenticationApp.http",
+              "DocumentMoniker": "C:\\Users\\nikhi\\source\\repos\\AuthenticationApp\\AuthenticationApp\\AuthenticationApp.http",
+              "RelativeDocumentMoniker": "AuthenticationApp\\AuthenticationApp.http",
+              "ToolTip": "C:\\Users\\nikhi\\source\\repos\\AuthenticationApp\\AuthenticationApp\\AuthenticationApp.http",
+              "RelativeToolTip": "AuthenticationApp\\AuthenticationApp.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-15T08:51:58.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nikhi\\source\\repos\\AuthenticationApp\\AuthenticationApp\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthenticationApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\nikhi\\source\\repos\\AuthenticationApp\\AuthenticationApp\\appsettings.json",
+              "RelativeToolTip": "AuthenticationApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-15T08:43:51.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DependencyIngectionContainer.cs",
+              "DocumentMoniker": "C:\\Users\\nikhi\\source\\repos\\AuthenticationApp\\AuthenticationApp\\DependencyIngectionContainer\\DependencyIngectionContainer.cs",
+              "RelativeDocumentMoniker": "AuthenticationApp\\DependencyIngectionContainer\\DependencyIngectionContainer.cs",
+              "ToolTip": "C:\\Users\\nikhi\\source\\repos\\AuthenticationApp\\AuthenticationApp\\DependencyIngectionContainer\\DependencyIngectionContainer.cs",
+              "RelativeToolTip": "AuthenticationApp\\DependencyIngectionContainer\\DependencyIngectionContainer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T08:32:44.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserModels.cs",
+              "DocumentMoniker": "C:\\Users\\nikhi\\source\\repos\\AuthenticationApp\\AuthenticationApp\\Models\\UserModels.cs",
+              "RelativeDocumentMoniker": "AuthenticationApp\\Models\\UserModels.cs",
+              "ToolTip": "C:\\Users\\nikhi\\source\\repos\\AuthenticationApp\\AuthenticationApp\\Models\\UserModels.cs",
+              "RelativeToolTip": "AuthenticationApp\\Models\\UserModels.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA4wBEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T07:29:33.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUser.cs",
+              "DocumentMoniker": "C:\\Users\\nikhi\\source\\repos\\AuthenticationApp\\AuthenticationApp\\Business\\User\\IUser.cs",
+              "RelativeDocumentMoniker": "AuthenticationApp\\Business\\User\\IUser.cs",
+              "ToolTip": "C:\\Users\\nikhi\\source\\repos\\AuthenticationApp\\AuthenticationApp\\Business\\User\\IUser.cs",
+              "RelativeToolTip": "AuthenticationApp\\Business\\User\\IUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T07:23:31.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\nikhi\\source\\repos\\AuthenticationApp\\AuthenticationApp\\Business\\User\\UserBusiness.cs",
+              "RelativeDocumentMoniker": "AuthenticationApp\\Business\\User\\UserBusiness.cs",
+              "ToolTip": "C:\\Users\\nikhi\\source\\repos\\AuthenticationApp\\AuthenticationApp\\Business\\User\\UserBusiness.cs",
+              "RelativeToolTip": "AuthenticationApp\\Business\\User\\UserBusiness.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAIA+wCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T07:22:57.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\nikhi\\source\\repos\\AuthenticationApp\\AuthenticationApp\\Controllers\\User\\UserController.cs",
+              "RelativeDocumentMoniker": "AuthenticationApp\\Controllers\\User\\UserController.cs",
+              "ToolTip": "C:\\Users\\nikhi\\source\\repos\\AuthenticationApp\\AuthenticationApp\\Controllers\\User\\UserController.cs",
+              "RelativeToolTip": "AuthenticationApp\\Controllers\\User\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T07:16:09.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikhi\\source\\repos\\AuthenticationApp\\AuthenticationApp\\Program.cs",
+              "RelativeDocumentMoniker": "AuthenticationApp\\Program.cs",
+              "ToolTip": "C:\\Users\\nikhi\\source\\repos\\AuthenticationApp\\AuthenticationApp\\Program.cs",
+              "RelativeToolTip": "AuthenticationApp\\Program.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAADkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T19:48:55.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\nikhi\\source\\repos\\AuthenticationApp\\AuthenticationApp\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "AuthenticationApp\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\nikhi\\source\\repos\\AuthenticationApp\\AuthenticationApp\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "AuthenticationApp\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T19:46:30.401Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
